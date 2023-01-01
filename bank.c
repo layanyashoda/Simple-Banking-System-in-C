@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-//variables
+//variables for functions
 void login(); 
 int newacc();
 void Exit();
