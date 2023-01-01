@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+//variables
 void login(); 
 int newacc();
 void Exit();
