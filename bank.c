@@ -193,7 +193,7 @@ int newacc(){
     
 }
 
-//User Screen
+//User Screen Functions
 int userscrn(){
 
     system("cls"); //Clear Screen
