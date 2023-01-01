@@ -18,6 +18,7 @@ int updtpin();
 int logout();
 void loading();
 
+//structure variables
 struct details
 {
     char username[15];
