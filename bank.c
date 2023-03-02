@@ -21,6 +21,8 @@ int updtpin();
 int logout();
 void loading();
 
+int check=0;
+
 //structure variables
 struct details
 {
