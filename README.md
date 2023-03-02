@@ -6,6 +6,6 @@ This is a Banking System Concept created using C.
 
 * Create Bank Account.
 * Deposit & Withdraw Money
-* Transaction receipt with date & time
+* Transaction Receipt with date & time
 * View Account Balance
 * Simple UI
