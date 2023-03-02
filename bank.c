@@ -27,9 +27,10 @@ void invlog();
 
 int check=0;
 
+
 //Variables for Create New Account Details
-struct details
-{
+struct details{
+    char placeholder[5];
     char username[15];
     char NIC[13];
     char F_name[15];
