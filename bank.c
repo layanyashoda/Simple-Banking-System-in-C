@@ -15,11 +15,13 @@ int chkbal();
 int tramny();
 int depmny(); 
 int delacc();
+void delsuccess();
 int updtacc();
 int updtusrnm();
 int updtpin();
 int logout();
 void loading();
+void invuname(); 
 
 int check=0;
 
