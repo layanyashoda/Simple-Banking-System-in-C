@@ -22,6 +22,8 @@ int updtpin();
 int logout();
 void loading();
 void invuname(); 
+void invpin(); 
+void invlog(); 
 
 int check=0;
 
