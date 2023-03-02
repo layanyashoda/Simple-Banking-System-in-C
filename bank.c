@@ -27,7 +27,7 @@ void invlog();
 
 int check=0;
 
-//structure variables
+//Variables for Create New Account Details
 struct details
 {
     char username[15];
